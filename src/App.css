@@ -3,8 +3,10 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  max-width: 200px;
+  display: block;
   pointer-events: none;
+  margin: 0 auto;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -22,6 +24,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin: 30px 0;
 }
 
 .App-link {
