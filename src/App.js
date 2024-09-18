@@ -12,11 +12,6 @@ export default function App() {
             className="img-fluid App-logo"
             alt="logo"
           />
-          <a
-            href="/#"
-            className="btn btn-primary">
-            Hello 2 World
-          </a>
         </header>
         <main>
           <Dictionary />
